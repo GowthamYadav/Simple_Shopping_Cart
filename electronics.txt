@@ -1,0 +1,34 @@
+******************************************************************************
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                             THE MOBILE STORE 
+______________________________________________________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================================================================
+ _________
+| _______ |      _____________________________________________________________
+||       ||       Mobile                   availability         price()        
+||       ||      _____________________________________________________________
+||       ||      *nokia lumia 325          in stock	       Rs.13,999/-
+||_______||      *micromax grand           in stock	       Rs.12,000/-
+|_________|      *motorola rockerz         in stock	       Rs.1999/-
+|____o____|      *nokia 1100	           in stock	       Rs.1200/-
+                 *sony xperia z2	   in stock	       Rs.32000/-
+                 *Apple 7(64Gb)	           in stock	       Rs.55,000/-
+		 *Apple 7(128Gb)           in stock	       Rs.64,000/-
+`		 *Apple 7(254Gb)           out of stock	       Rs.80,999/-
+		 *Apple 6s plus(64Gb)      in stock	       Rs.45,999/-
+                 *Apple 6s	           in stock	       Rs.40,000/-
+		 *honor plus 	           in stock	       Rs.13,000/-
+	         *moto g play	           in stock	       Rs.14,000/-
+                 *huawei s6s	           in stock	       Rs.21,000/-
+		 *moto x play	           in stock	       Rs.17,999/-
+	         *xiaomi mi note 3	   in stock	       Rs.14,000/-
+	         *xioami mi 4i	           in stock	       Rs.11,999/-
+	         *oneplus 1(32Gb) 	  out of stock	       Rs.18,989/-
+	         *oneplus 2(64Gb)	   in stock	       Rs.23,000/-
+	         *oneplus 3(64Gb)	   in stock	       Rs.27,999/-
+                 *moto e3	           in stock	       Rs.7000/-
+                 *samsung note 7	   in stock	       Rs.25,000/-
+		 *samsung galaxy s7 edge   in stock	       Rs.32,999/-
+_______________________________________________________________________________
+	                          
